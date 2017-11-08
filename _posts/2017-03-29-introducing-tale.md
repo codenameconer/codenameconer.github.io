@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Tale"
+title:  "Who's your daddy?"
 author: "Chester"
 ---
 
